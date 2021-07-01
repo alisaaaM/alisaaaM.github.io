@@ -1,0 +1,23 @@
+p
+		{
+			font-size: 50px; 
+			font-family: arial; 
+		}
+		div
+		{
+            padding: 0;
+            margin: auto; 
+			background-color: gold;
+			width: 50%;
+			color: pink;
+			padding-top: 100px;
+			box-shadow: 10px 10px
+			 200px 10px rgba(255, 60, 0, 0.8);
+		}
+
+		p
+		{
+			color: green;
+        }
+
+
